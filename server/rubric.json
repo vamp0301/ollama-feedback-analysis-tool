@@ -1,0 +1,45 @@
+{
+  "scale": "1 to 10",
+  "levels": {
+    "1-2": {
+      "label": "Non-functional",
+      "description": "Fellow is absent, disengaged, or causing harm. Supervisor has no confidence in them."
+    },
+    "3-4": {
+      "label": "Below expectations",
+      "description": "Fellow shows up but is unreliable, does not follow through, or needs constant supervision."
+    },
+    "5-6": {
+      "label": "Meeting basic expectations",
+      "description": "Fellow is reliable and completes assigned tasks but shows limited initiative or systems thinking."
+    },
+    "7-8": {
+      "label": "Strong performer",
+      "description": "Fellow takes ownership, builds systems, earns team trust, and drives measurable improvements."
+    },
+    "9-10": {
+      "label": "Exceptional",
+      "description": "Fellow operates like a leader, creates lasting organizational change, and is seen as indispensable."
+    }
+  },
+  "dimensions": [
+    "Reliability and follow-through",
+    "Initiative and ownership",
+    "Systems building",
+    "Team relationships and trust",
+    "Communication with leadership",
+    "Problem solving",
+    "Business impact and KPI movement"
+  ],
+  "kpis": [
+    "On-time delivery",
+    "Production efficiency",
+    "Inventory accuracy",
+    "Workforce accountability",
+    "Process documentation",
+    "Cost reduction",
+    "Leadership visibility",
+    "Team capability building"
+  ]
+}
+
